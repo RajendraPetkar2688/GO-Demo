@@ -24,6 +24,7 @@ func printPrimeNumbers(num1, num2 int){
    }
    fmt.Println()
 }
+// main call
 
 func main(){
    printPrimeNumbers(5, 19)
